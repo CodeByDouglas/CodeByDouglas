@@ -11,11 +11,11 @@ conexões e o networking com pessoas que compartilham dos mesmos objetivos e int
 ## 🚀 Áreas de Interesse e Aprendizado
 Tenho grande interesse e estou constantemente aprimorando meus conhecimentos nas seguintes áreas:
 
-Desenvolvimento Backend
-Controle de versão com Git e GitHub
-Python e Django
-Automação de Processos (RPA)
-Lógica de Programação e Fundamentos de Engenharia de Software
+Desenvolvimento Backend, 
+Controle de versão com Git e GitHub, 
+Python e Django, 
+Automação de Processos (RPA), 
+Lógica de Programação e Fundamentos de Engenharia de Software, 
 Linguagem C
 
 Essas são áreas em que venho me desenvolvendo. Embora não tenha total 
