@@ -15,8 +15,8 @@ Desenvolvimento Backend,
 Controle de versão com Git e GitHub, 
 Python e Django, 
 Automação de Processos (RPA), 
-Lógica de Programação e Fundamentos de Engenharia de Software, 
-Linguagem C
+Lógica de Programação, Fundamentos de Engenharia de Software, 
+e Linguagem C
 
 Essas são áreas em que venho me desenvolvendo. Embora não tenha total 
 domínio de tudo, estou avançando e sempre buscando evoluir.
