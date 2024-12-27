@@ -1,30 +1,21 @@
 # 👋 Olá, eu sou o Douglas!
 
 ## 💻 Sobre Mim
-Sou acadêmico de Engenharia de Software, apaixonado por tecnologia e desenvolvimento. 
-Estou focado em me qualificar para me tornar um excelente profissional na área de 
-desenvolvimento backend. Comecei a me dedicar intensamente aos estudos, tanto acadêmicos 
-quanto pessoais, há cerca de um ano. Além de aprimorar minhas habilidades técnicas, estou 
-sempre buscando melhorar minhas soft skills e crescer como pessoa. Valorizo a criação de 
-conexões e o networking com pessoas que compartilham dos mesmos objetivos e interesses.
-
-## 🚀 Áreas de Interesse e Aprendizado
-Tenho grande interesse e estou constantemente aprimorando meus conhecimentos nas seguintes áreas:
-
-Desenvolvimento Backend, 
-Controle de versão com Git e GitHub, 
-Python e Django, 
-Automação de Processos (RPA), 
-Lógica de Programação, Fundamentos de Engenharia de Software, 
-e Linguagem C
-
-Essas são áreas em que venho me desenvolvendo. Embora não tenha total 
-domínio de tudo, estou avançando e sempre buscando evoluir.
+Acadêmico de Engenharia de Software, apaixonado por tecnologia e desenvolvimento backend. Atualmente, foco no domínio de Python, Flask, Django, PostgreSQL, Docker e C. Busco aprimorar continuamente minhas habilidades técnicas e soft skills para colaborar em projetos desafiadores e inovadores.
 
 ## 📈 Estatísticas do GitHub
 
-![Douglas's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodeByDouglas&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeByDouglas&layout=compact&theme=dracula)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=CodeByDouglas&theme=dark&date_format=j%20M%5B%20Y%5D)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeByDouglas&layout=compact&theme=dark)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=CodeByDouglas&theme=react-dark)
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="50" height="50"/>
+</p>
 
 ## 📫 Como me encontrar
 
