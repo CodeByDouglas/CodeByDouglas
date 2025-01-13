@@ -5,7 +5,7 @@ Acadêmico de Engenharia de Software, apaixonado por tecnologia e desenvolviment
 
 ## 📈 Estatísticas do GitHub
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=CodeByDouglas&theme=dark&date_format=j%20M%5B%20Y%5D)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeByDouglas&layout=compact&theme=dark)
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=CodeByDouglas&theme=react-dark)
 <p align="left">
