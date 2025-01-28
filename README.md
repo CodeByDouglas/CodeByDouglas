@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou o Douglas!
 
 ## 💻 Sobre Mim
-Acadêmico de Engenharia de Software, apaixonado por tecnologia e desenvolvimento backend. Atualmente, foco no domínio de Python, Flask, Django, PostgreSQL, Docker e C. Busco aprimorar continuamente minhas habilidades técnicas e soft skills para colaborar em projetos desafiadores e inovadores.
+Estudante de Engenharia de Software, atualmente focado em desenvolvimento Back-end. Tenho experiência em RPA utilizando Python e estou estudando C# para aumentar minha stack de desenvolvimento
 
 ## 📈 Estatísticas do GitHub
 
