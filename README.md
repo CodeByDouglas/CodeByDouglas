@@ -1,8 +1,7 @@
 # 👋 Olá, eu sou o Douglas!
 
 ## 💻 Sobre Mim
-Estudante de Engenharia de Software, atualmente focado em desenvolvimento Back-end. Tenho experiência em RPA utilizando Python e estou estudando C# para aumentar minha stack de desenvolvimento
-
+Desenvolvedor Back-end com stack principal em Python (Flask e Django), em evolução na área de segurança de sistemas e com experiência em automações. Estudante de Engenharia de Software.
 ## 📈 Estatísticas do GitHub
 
 
