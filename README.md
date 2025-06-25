@@ -34,6 +34,4 @@ Desenvolvedor Back-end especializado em **Python** com experiência sólida em *
 
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=CodeByDouglas&color=0077B5&style=flat-square&label=Visualizações+do+Perfil" alt="Profile views"/>
-</div>
+
