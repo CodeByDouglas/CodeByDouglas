@@ -6,7 +6,7 @@ Desenvolvedor Back-end especializado em **Python** com experiência sólida em *
 
 🎓 **Estudante de Engenharia de Software**  
 🔧 **Especialidades:** Desenvolvimento de APIs REST, microsserviços e containerização com Docker  
-🚀 **Foco atual:** Cybersecurity e DevOps
+
 
 ## 📈 Estatísticas do GitHub
 
