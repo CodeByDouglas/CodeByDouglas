@@ -7,15 +7,6 @@ Desenvolvedor Back-end especializado em **Python** com experiência sólida em *
 🎓 **Estudante de Engenharia de Software**  
 🔧 **Especialidades:** Desenvolvimento de APIs REST, microsserviços e containerização com Docker  
 
-
-## 📈 Estatísticas do GitHub
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeByDouglas&layout=compact&theme=dark)
-
-## 🔥 GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=CodeByDouglas&theme=dark)
-
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="50" height="50"/>
