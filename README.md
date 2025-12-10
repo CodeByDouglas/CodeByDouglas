@@ -3,7 +3,7 @@
 ## 💻 Sobre Mim
 
 Egenheiro de Software especializado em desenvolvimento Back-end com ferramentas como **Python**, **Flask**, **Django** e **FastAPI**. Apaixonado por criar soluções escaláveis e APIs robustas, com foco crescente em **segurança de sistemas** e **automação de processos**.
-🎓 **Estudante de Engenharia de Software**  
+
 
 
 <p align="left">
