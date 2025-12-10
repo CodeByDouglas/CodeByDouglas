@@ -22,7 +22,7 @@ Experiência em ambientes Linux, conteinerização com **Docker**, orquestrac
 <p align="left">
   <a href="https://skillicons.dev">
     <img
-      src="https://skillicons.dev/icons?i=python,fastapi,django,flask,c,postgresql,mysql,postman&theme=dark&perline=7"
+      src="https://skillicons.dev/icons?i=python,fastapi,django,flask,c,postgresql,mysql&theme=dark&perline=7"
       alt="Back-end stack"
     />
   </a>
