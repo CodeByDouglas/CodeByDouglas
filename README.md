@@ -54,6 +54,4 @@ Experiência em ambientes Linux, conteinerização com **Docker**, orquestrac
 
 ## 📫 Contatos
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/douglas-almeida-dos-santos-0723152aa)  
-[![Email](https://img.shields.io/badge/Email-douglas.ofc.2004@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:douglas.ofc.2004@gmail.com)  
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5562993977594)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/douglas-almeida-dos-santos-0723152aa) [![Email](https://img.shields.io/badge/Email-douglas.ofc.2004@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:douglas.ofc.2004@gmail.com) [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5562993977594)
