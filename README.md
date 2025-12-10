@@ -2,10 +2,9 @@
 
 ## 💻 Sobre Mim
 
-Desenvolvedor Back-end especializado em **Python** com experiência sólida em **Flask**, **Django** e **FastAPI**. Apaixonado por criar soluções escaláveis e APIs robustas, com foco crescente em **segurança de sistemas** e **automação de processos**.
-
+Egenheiro de Software especializado em desenvolvimento Back-end com ferramentas como **Python**, **Flask**, **Django** e **FastAPI**. Apaixonado por criar soluções escaláveis e APIs robustas, com foco crescente em **segurança de sistemas** e **automação de processos**.
 🎓 **Estudante de Engenharia de Software**  
-🔧 **Especialidades:** Desenvolvimento de APIs REST, microsserviços e containerização com Docker  
+
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
