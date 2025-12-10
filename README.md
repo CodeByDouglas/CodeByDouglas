@@ -9,6 +9,8 @@
 Engenheiro de Software focado em desenvolvimento Back-end com **Python**, **Flask**, **Django** e **FastAPI**.  
 Apaixonado por criar **APIs escaláveis e robustas**, com foco em **segurança de sistemas**, **automação de processos** e **arquiteturas orientadas a serviços**.
 
+Embora meu foco principal seja o Back-end, possuo experiência no desenvolvimento da camada visual utilizando **Figma**, **HTML**, **CSS**, **Bootstrap** e **Tailwind**, o que facilita a integração entre front-end e back-end.
+
 Experiência em ambientes Linux, conteinerização com **Docker**, orquestração com **Kubernetes** e bancos de dados relacionais como **PostgreSQL** e **MySQL**.
 
 ---
