@@ -51,24 +51,6 @@ Experiência em ambientes Linux, conteinerização com **Docker**, orquestraçã
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="left">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=CodeByDouglas&show_icons=true&theme=tokyonight&hide_title=true"
-    alt="GitHub stats"
-  />
-</p>
-
-<p align="left">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeByDouglas&layout=compact&theme=tokyonight"
-    alt="Top languages"
-  />
-</p>
-
----
-
 ## 📫 Contatos
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/douglas-almeida-dos-santos-0723152aa)
