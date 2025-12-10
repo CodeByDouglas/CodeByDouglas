@@ -6,7 +6,7 @@
 
 ## 💻 Sobre Mim
 
-Engenheiro de Software focado em desenvolvimento Back-end com **Python**, **Flask**, **Django** e **FastAPI**.  
+Engenheiro de Software focado em desenvolvimento Back-end com **Python**, **Flask**, **Django** e **FastAPI**, com experiência em liderança de equipes e gestão de projetos em ambiente ágil.
 Apaixonado por criar **APIs escaláveis e robustas**, com foco em **segurança de sistemas**, **automação de processos** e **arquiteturas orientadas a serviços**.
 
 Embora meu foco principal seja o Back-end, possuo experiência no desenvolvimento da camada visual utilizando **Figma**, **HTML**, **CSS**, **JavaScript**, **Bootstrap** e **Tailwind CSS**, o que facilita a integração entre front-end e back-end.
