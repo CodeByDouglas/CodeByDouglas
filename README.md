@@ -28,7 +28,7 @@ Experiência em ambientes Linux, conteinerização com **Docker**, orquestrac
   </a>
 </p>
 
-### 🎨 Front-end
+### 🖥️ Front-end
 
 <p align="left">
   <a href="https://skillicons.dev">
