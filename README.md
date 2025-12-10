@@ -1,6 +1,6 @@
 # Douglas A. Santos
 
-### Desenvolvedor Back-end | Python • Django • FastAPI
+### Desenvolvedor Back-end | Python • Django • Flask • FastAPI
 
 ---
 
