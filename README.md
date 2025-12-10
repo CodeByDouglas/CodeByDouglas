@@ -44,7 +44,7 @@ Experiência em ambientes Linux, conteinerização com **Docker**, orquestrac
 <p align="left">
   <a href="https://skillicons.dev">
     <img
-      src="https://skillicons.dev/icons?i=docker,kubernetes,linux,git,github,apache&theme=dark&perline=6"
+      src="https://skillicons.dev/icons?i=docker,kubernetes,linux,git,github,compose&theme=dark&perline=6"
       alt="DevOps stack"
     />
   </a>
