@@ -39,18 +39,6 @@ Experiência em ambientes Linux, conteinerização com **Docker**, orquestraçã
 
 ---
 
-## 📌 Projetos em Destaque
-
-- [**Projeto-GFP**](https://github.com/CodeByDouglas/Projeto-GFP)  
-  Sistema focado em rotinas de back-end e processamento de dados, com ênfase em organização e boas práticas.
-
-- [**API-Rest-Query-SQL**](https://github.com/CodeByDouglas/API-Rest-Query-SQL)  
-  API REST para consultas SQL de forma segura e estruturada, utilizando Python e boas práticas de design de APIs.
-
-> Ajuste os textos acima para descrever seus projetos da forma que preferir.
-
----
-
 ## 📫 Contatos
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/douglas-almeida-dos-santos-0723152aa)
