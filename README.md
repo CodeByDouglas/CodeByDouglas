@@ -6,12 +6,12 @@
 
 ## 💻 Sobre Mim
 
-Engenheiro de Software focado em desenvolvimento Back-end com **Python**, **Flask**, **Django** e **FastAPI**, com experiência em liderança de equipes e gestão de projetos em ambiente ágil.
-Apaixonado por criar **APIs escaláveis e robustas**, com foco em **segurança de sistemas**, **automação de processos** e **arquiteturas orientadas a serviços**.
+Engenheiro de Software focado em desenvolvimento Back-end com **Python**, **Flask**, **Django** e **FastAPI**, com experiência em liderança de equipes e gestão de projetos em ambiente ágil.  
+Apaixonado por criar **APIs escaláveis e robustas**, com foco em **segurança de sistemas**, **automação de processos** e **arquiteturas orientadas a serviços**.
 
-Embora meu foco principal seja o Back-end, possuo experiência no desenvolvimento da camada visual utilizando **Figma**, **HTML**, **CSS**, **JavaScript**, **Bootstrap** e **Tailwind CSS**, o que facilita a integração entre front-end e back-end.
+Embora meu foco principal seja o Back-end, possuo experiência no desenvolvimento da camada visual utilizando **Figma**, **HTML**, **CSS**, **JavaScript**, **Bootstrap** e **Tailwind CSS**, o que facilita a integração entre front-end e back-end.
 
-Experiência em ambientes Linux, conteinerização com **Docker**, orquestração com **Kubernetes** e bancos de dados relacionais como **PostgreSQL** e **MySQL**.
+Experiência em ambientes Linux, conteinerização com **Docker**, orquestração com **Kubernetes** e bancos de dados relacionais como **PostgreSQL** e **MySQL**.
 
 ---
 
@@ -22,7 +22,7 @@ Experiência em ambientes Linux, conteinerização com **Docker**, orquestrac
 <p align="left">
   <a href="https://skillicons.dev">
     <img
-      src="https://skillicons.dev/icons?i=python,fastapi,django,flask,c,postgresql,mysql&theme=dark&perline=7"
+      src="https://skillicons.dev/icons?i=python,fastapi,django,flask,c,postgresql,mysql,redis&theme=dark&perline=8"
       alt="Back-end stack"
     />
   </a>
@@ -44,10 +44,12 @@ Experiência em ambientes Linux, conteinerização com **Docker**, orquestrac
 <p align="left">
   <a href="https://skillicons.dev">
     <img
-      src="https://skillicons.dev/icons?i=docker,kubernetes,linux,git,github&theme=dark&perline=6"
+      src="https://skillicons.dev/icons?i=docker,kubernetes,linux,git,github&theme=dark&perline=5"
       alt="DevOps stack"
     />
   </a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" alt="Grafana" width="48" height="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" alt="Prometheus" width="48" height="48"/>
 </p>
 
 ---
