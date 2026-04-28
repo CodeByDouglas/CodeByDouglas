@@ -22,7 +22,7 @@ Experiência em ambientes Linux, conteinerização com **Docker**, orquestraçã
 <p align="left">
   <a href="https://skillicons.dev">
     <img
-      src="https://skillicons.dev/icons?i=python,fastapi,django,flask,c,postgresql,mysql,redis&theme=dark&perline=8"
+      src="https://skillicons.dev/icons?i=py,fastapi,django,flask,c,postgres,mysql,redis&theme=dark&perline=8"
       alt="Back-end stack"
     />
   </a>
@@ -44,12 +44,10 @@ Experiência em ambientes Linux, conteinerização com **Docker**, orquestraçã
 <p align="left">
   <a href="https://skillicons.dev">
     <img
-      src="https://skillicons.dev/icons?i=docker,kubernetes,linux,git,github&theme=dark&perline=5"
+      src="https://skillicons.dev/icons?i=docker,kubernetes,linux,git,github,grafana,prometheus&theme=dark&perline=7"
       alt="DevOps stack"
     />
   </a>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" alt="Grafana" width="48" height="48"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" alt="Prometheus" width="48" height="48"/>
 </p>
 
 ---
