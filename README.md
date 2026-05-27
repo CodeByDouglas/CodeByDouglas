@@ -1,6 +1,6 @@
 # Douglas A. Santos
 
-### Desenvolvedor Back-end | Python • Django • Flask • FastAPI
+### Desenvolvedor Back-end | Python • Django • Flask • FastAPI | Java • Spring Boot
 
 ---
 
@@ -22,7 +22,7 @@ Experiência em ambientes Linux, conteinerização com **Docker**, orquestraçã
 <p align="left">
   <a href="https://skillicons.dev">
     <img
-      src="https://skillicons.dev/icons?i=py,fastapi,django,flask,c,postgres,mysql,redis&theme=dark&perline=8"
+      src="https://skillicons.dev/icons?i=py,fastapi,django,flask,java,spring,c,postgres,mysql,redis&theme=dark&perline=8"
       alt="Back-end stack"
     />
   </a>
